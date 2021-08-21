@@ -5,6 +5,7 @@ body{
 		font-size: 25px;
 		}
 	h1,p	{
+		text-decoration-style: wavy;
 		text-align: center;
 		}
 	a	{
